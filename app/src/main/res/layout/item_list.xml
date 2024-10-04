@@ -5,7 +5,6 @@
     android:orientation="vertical"
     android:padding="8dp">
 
-    <!-- TextView với viền bao quanh -->
     <TextView
         android:id="@+id/textViewItem"
         android:layout_width="match_parent"
